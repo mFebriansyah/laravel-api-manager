@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "MFebriansyah\\LaravelAPIManager\\": "packages/mfebriansyah/laravel-api-manager/src"
+            "MFebriansyah\\LaravelAPIManager\\": "src/"
         }
     }
 }
